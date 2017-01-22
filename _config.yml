@@ -6,7 +6,7 @@
 name: Ty Trusty
 
 # Short bio or description (displayed in the header)
-description: CS371p Spring 2017: Ty Trusty
+description: CS371p Spring 2017  Ty Trusty
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -14,7 +14,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
-future: true
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
