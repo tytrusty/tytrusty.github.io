@@ -8,8 +8,7 @@ This is my blog for CS 371p
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+My other website is here: [https://www.cs.utexas.edu/~tytrusty/](https://www.cs.utexas.edu/~tytrusty/)
 ### Contact me
 
 tytrusty AT utexas DOT edu
