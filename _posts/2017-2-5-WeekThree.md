@@ -16,3 +16,4 @@ Next week I would like to get started on the next OOP project. I haven't read th
 THe first project went well, I think. I finished with plenty of time to spare, but I spent a good amount of extra time ensuring that I fulfilled all the requirements from the workflow.  
 
 ### What's my pick-of-the-week or tip-of-the-week?
+My tip of the week would be to work on a personal project. Working on projects is great because it allows you to create something completely unique that you can take some degree of pride in. School projects are great, but the assignments usually don't align with everybodies' interests. So if you have a little idea you're interested in, make some free time and work on it. It won't feel like work if you're actually interseted in it too.
