@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week of 23 Jan - 29 Jan
+title: Week of 30 Jan - 5 Feb
 ---
 
 ### What did you do this past week?
