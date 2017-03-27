@@ -4,7 +4,7 @@ title: Week of 20 Mar - 26 Mar
 ---
 
 ### What did you do this past week?
-I finished up the allocator project. Things went smoothly so there wasn't any pressure to get things done before the deadline. Outside of OOP I took my test a test for language credit in Chinese. I was nervous about this since I have been learning independently for almost a year and I had yet to be tested in my ability. Fortunately, things ended up going well and I got enough credit to fulfill my degree requirement. 
+I finished up the allocator project. Things went smoothly so there wasn't any pressure to get things done before the deadline. Outside of OOP I took a test for language credit in Chinese. I was nervous about this since I have been learning independently for almost a year and I had yet to be tested in my ability. Fortunately, things ended up going well and I got enough credit to fulfill my degree requirement. 
 
 ### What's in your way?
 I have a decent amount of work in my other courses so that's the main thing in my way. In OOP, the next test is still over a month away, which makes the next projects and quizzes the only thing I am concerned about. With OOP and my other classes, it will be a challenge to stay on top of the OOP reading and class content this week. But looking at these things in a positive light, all this can be seen as a good exercise in my time management skills.
