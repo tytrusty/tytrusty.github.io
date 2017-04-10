@@ -9,11 +9,9 @@ This weekend I had a ton of fun working on a new project. Miraculously, the star
 
 Here's an example of what I have working: 
 ```
-{% highlight ruby %}
-(#_#) this is a comment  o_o
-(#_#)--* this is a multi-line comment *--(#_#) 
+(#_#)              this is a comment
+(#_#)--*           this is a multi-line comment *--(#_#) 
 o \(^-^)/ 5  (#_#) this is assignment
-{% endhighlight %}
 ```
 The above code produces the c code: `int o = 5;`
 
