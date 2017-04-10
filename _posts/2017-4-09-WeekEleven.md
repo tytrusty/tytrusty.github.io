@@ -4,8 +4,9 @@ title: Week of 3 Apr - 9 Apr
 ---
 
 ### What did you do this past week?
+This weekend I had a ton of fun working on a new project. Miraculously, the stars aligned and I had a (mostly) free weekend, so I wanted work on something moderately big. For last week's blog I posted an article about the programming language pipeline, which got me interested in making my own language. My plan was to make a language that was extremely unintuitive, difficult to code, and difficult to read. I therfore decided to work on a language where all expressions looked like ASCII emoticons. 
 
-This weekend I had a ton of fun working on a new project. Miraculously, the stars aligned and I had a (mostly) free weekend, so I wanted work on something moderately big. For last week's blog I posted an article about the programming language pipeline, which got me interested in making my own language. My plan was to make a language that was extremely unintuitive, difficult to code, and difficult to read. I therfore decided to work on a language where all expressions looked like ASCII emoticons. So I started off looking at all the tools like Flex, Bison, and LLVM, but there was way too much information to digest. I figured it would be easier to do the tokenization and parsing myself (and it was). My language pipeline was lexing (read tokens), parsing (build Abstract syntax tree), then transpiling (convert my language to c code). Given I've only worked on it for two days now, not much is implemented. However I implemented basic integer initialization and comments. 
+So I started off looking at all the tools like Flex, Bison, and LLVM, but there was way too much information to digest. I figured it would be easier to do the tokenization and parsing myself (and it was). My language pipeline was lexing (read tokens), parsing (build Abstract syntax tree), then transpiling (convert my language to c code). Given I've only worked on it for two days now, not much is implemented. However I implemented basic integer initialization and comments. 
 
 Here's an example of what I have working: 
 ```
