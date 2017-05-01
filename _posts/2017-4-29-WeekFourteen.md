@@ -13,7 +13,7 @@ This week is my finals week. I've got an essay due and three final exams. I bega
 Study study study. All my finals are this Thursday so that leaves Monday-Wednesday of complete studying. One problem I have is that I'll sometimes force myself to keep working until I am satisfied with my studying, which entails working late into the night. Being well-rested is crucial, so I can't allow myself to stay up any later than 3 a.m. This time still sounds ridiculous, but if I didn't regulate my schedule I would end up staying up to almost 6 a.m. and obliterating my sleep schedule. 
 
 ### What's my experience of the class?
-Class has continued to be great. The lectures are always informative and I feel like I'm learning for the entire 50 minute duraiton. This class has made a great impression upon me and I definitely plan to take SWE in the future. 
+Class has continued to be great. The lectures are always informative and I feel like I'm learning for the entire 50 minute duration. This class has made a great impression upon me and I definitely plan to take SWE in the future. 
 
 ### What's my pick-of-the-week or tip-of-the-week?
 My pick of the week is [this](https://web.stanford.edu/~learnest/les/crypto.htm) interesting article called "How I got an FBI record at age 11 from dabbling in cryptography then got into more trouble". If you're looking to take a quick break, I would recommend this article as its short and pretty amusing. 
